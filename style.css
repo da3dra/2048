@@ -1,0 +1,21 @@
+
+	table{
+		width:600px;
+		height:600px;
+		background-color: #424242;
+		border-spacing: 20px;
+		z-index:2;
+		margin: 0 auto;
+		position:fixed;
+		padding: 0;
+	}
+	.cell{
+		margin: 0 auto;
+	   position:relative;
+		width:120px;
+		height:120px;
+		background-color: #6E6E6E;
+	    padding: 0;
+	}
+
+
